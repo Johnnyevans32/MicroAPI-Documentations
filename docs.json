@@ -3,24 +3,24 @@
         "comments" : {
             "team" : "The MicroAPI TEAM",
             "title" : "Comment MicroAPI",
-            "updated_time" : "",
-            "introduction" : "",
-            "api_reference": "null",
+            "updated_time" : "31-07-2020",
+            "introduction" : "This MicroAPI offers you the ability to manage your Comments in your Application.",
+            "api_reference": "The Comment API gives the developer access to built-in functionalities for when they want to implement comments and replies within their own application. Basic functionalities are available for creation, update, and deletion of comments and replies while ensuring that only users authorized are allowed to use such functionalities. Additionally, there are extra features such as filtering, sorting, voting, and flagging available. You can use the Comment MicroApi in test mode, which does not affect your live data. The API key you use to authenticate the request determines whether the request is in live mode or test mode. The Comment MicroApi differs for every account as we release new versions and tailor functionality. Log in to see docs customized to your version of the API, with your test key and data.",
             "video_guide": {
               "title" : "Video Guide",
-              "description" : "null",
+              "description" : "The Comment API gives the developer access to built-in functionalities for when they want to implement comments and replies within their own application. Basic functionalities are available for creation, update, and deletion of comments and replies while ensuring that only users authorized are allowed to use such functionalities. Additionally, there are extra features such as filtering, sorting, voting, and flagging available.",
               "video_link" : "null"
             },
             "tutorial" : {
               "title" : "Tutorial",
-              "description" : "null"
+              "description" : "The Comment API gives the developer access to built-in functionalities for when they want to implement comments and replies within their own application. Basic functionalities are available for creation, update, and deletion of comments and replies while ensuring that only users authorized are allowed to use such functionalities. Additionally, there are extra features such as filtering, sorting, voting, and flagging available. The Comment API gives the developer access to built-in functionalities for when they want to implement comments and replies within their own application. Basic functionalities are available for creation, update, and deletion of comments and replies while ensuring that only users authorized are allowed to use such functionalities. Additionally, there are extra features such as filtering, sorting, voting, and flagging available. The Comment API gives the developer access to built-in functionalities for when they want to implement comments and replies within their own application. Basic functionalities are available for creation, update, and deletion of comments and replies while ensuring that only users authorized are allowed to use such functionalities. Additionally, there are extra features such as filtering, sorting, voting, and flagging available."
             }
         },
         "sms" : {
             "team" : "The MicroAPI TEAM",
             "title" : "SMS MicroAPI",
             "updated_time" : "",
-            "introduction" : "",
+            "introduction" : "This MicroAPI offers you the ability to Integrate an SMS MicroService into your Application.",
             "api_reference": "null",
             "video_guide": {
               "title" : "Video Guide",
@@ -36,7 +36,7 @@
             "team" : "The MicroAPI TEAM",
             "title" : "Blog MicroAPI",
             "updated_time" : "",
-            "introduction" : "",
+            "introduction" : "This MicroAPI offers you the ability to Integrate a Blogging System in your Application.",
             "api_reference": "null",
             "video_guide": {
               "title" : "Video Guide",
@@ -52,7 +52,7 @@
             "team" : "The MicroAPI TEAM",
             "title" : "Notification MicroAPI",
             "updated_time" : "",
-            "introduction" : "",
+            "introduction" : "This MicroAPI offers you the ability to Send Notifications to Users Seamlessly in your Application.",
             "api_reference": "null",
             "video_guide": {
               "title" : "Video Guide",
@@ -68,7 +68,7 @@
             "team" : "The MicroAPI TEAM",
             "title" : "User Management MicroAPI",
             "updated_time" : "",
-            "introduction" : "",
+            "introduction" : "This MicroAPI offers you the ability to manage your Users with so much ease in your Application.",
             "api_reference": "null",
             "video_guide": {
               "title" : "Video Guide",
